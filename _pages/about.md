@@ -26,7 +26,7 @@ Education
 
 Experience
 ======
-* <b>Research Assistant</b> at Electronics Engineering, Sabanci University, Istanbul, Turkey (Sep 2015-current)
+* <b>Research and Teaching Assistant</b> at Electronics Engineering, Sabanci University, Istanbul, Turkey (Sep 2015-current)
   * Cryptography & Information Security Group (Prof. Erkay Savas) (Sep 2017-current)
   * System-on-Chip Design & Test Lab (Assoc. Ilker Hamzaoglu) (Sep 2015 - Aug 2017)
 * <b>Visiting Researcher</b> at Electrical and Computer Engineering Department, North Carolina State University, Raleigh, NC, USA (June 2019 - Oct 2019)
