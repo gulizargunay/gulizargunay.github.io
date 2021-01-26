@@ -12,7 +12,7 @@ I am currently a PhD candidate at [Electronics Engineering](https://ee.sabanciun
 
 
 ## Education
-======
+
 * <b>PhD Candidate</b>, Electronics Engineering, Sabanci University, Istanbul, Turkey (2017-Current)
   * GPA: 4.00/4.00
   * Dissertation: "<it>High Performance FPGA-Based Co-Processor Design for Lattice-Based Cryptography with a Hardware-Software Co-Design Approach</it>"
@@ -25,7 +25,7 @@ I am currently a PhD candidate at [Electronics Engineering](https://ee.sabanciun
 
 
 ## Experience
-======
+
 * <b>Research and Teaching Assistant</b> at Electronics Engineering, Sabanci University, Istanbul, Turkey (Sep 2015-current)
   * Cryptography & Information Security Group (Prof. Erkay Savas) (Sep 2017-current)
   * System-on-Chip Design & Test Lab (Assoc. Prof. Ilker Hamzaoglu) (Sep 2015 - Aug 2017)
@@ -34,7 +34,7 @@ I am currently a PhD candidate at [Electronics Engineering](https://ee.sabanciun
 * <b>Intern</b> at AVL Turkey, Gebze, Kocaeli (Jun 2014-Feb 2015)
   
 ## Research Interests
-======
+
 * Lattice-Based Cryptography
 * Homomorphic Encryption
 * Post-Quantum Cryptography
@@ -42,7 +42,7 @@ I am currently a PhD candidate at [Electronics Engineering](https://ee.sabanciun
 
 
 ## Contact
-======
+
 Office: FENS 2014  
 Sabanci University  
 Istanbul, 34956  
