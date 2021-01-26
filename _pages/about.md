@@ -8,10 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-About Me
-#======
-------
-I am currently a PhD candidate at [Electronics Engineering Program](https://ee.sabanciuniv.edu/en) in [Sabanci University](https://www.sabanciuniv.edu/en), Istanbul, Turkey. I study under the supervision of Assist. Prof. Erdinc Ozturk and Prof. Erkay Savas at [Cryptography & Information Security (CISEC)](https://cisec.sabanciuniv.edu/) Group. My research interests include homomorphic encryption, post-quantum cryptography, cryptographic hardware design and FPGAs. I also work as a full-time research assistant at Electronics Engineering Program in Sabanci University since 2017.
+I am currently a PhD candidate at [Electronics Engineering Program](https://ee.sabanciuniv.edu/en) in [Sabanci University](https://www.sabanciuniv.edu/en), Istanbul, Turkey. I study under the supervision of Assist. Prof. Erdinc Ozturk and Prof. Erkay Savas at [Cryptography & Information Security (CISEC)](https://cisec.sabanciuniv.edu/) Group. I worked with Assist. Prof. Aydin Aysu as a visiting researcher at [Hardware and Embedded Cybersecurity Research Lab (HECTOR)](https://research.ece.ncsu.edu/aaysu/) in [North Carolina State University](https://www.ncsu.edu/), Raleigh, NC, in the summer of 2019. I received my BSc. and MSc. in Electronics Engineering from Sabanci University, Istanbul, Turkey, in 2015 and 2017 respectively. My research interests include homomorphic encryption, post-quantum cryptography, cryptographic hardware design and FPGAs. More specifically, I design hardware accelerator for lattice-based cryptography. Also, I work as a full-time research assistant at Electronics Engineering in Sabanci University since 2017.
+
+
+Education
+======
+* PhD Candidate, Electronics Engineering, Sabanci University, Istanbul, Turkey (2017-Current)
+GPA: 4.00/4.00
+  * Dissertation: "High Performance FPGA-Based Co-Processor Design for Lattice-Based Cryptography with a Hardware-Software Co-Design Approach"
+* MSc., Electronics Engineering, Sabanci University, Istanbul, Turkey (2015-2017)
+  * GPA: 4.00/4.00
+  * Thesis: "High Performance HEVC and FVC Video Compression Hardware Designs" supervised by Assoc.Prof. Ilker Hamzaoglu
+* BSc., Electronics Engineering, Sabanci University, Istanbul, Turkey (2010-2015)
+  * GPA: 3.95/4.00
+  * Senior Project: "A GPS-based Tracking and Accident Reporting System" supervised by Prof. Ibrahim Tekin and Assoc.Prof. Ayhan Bozkurt
 
 
 A data-driven personal website
