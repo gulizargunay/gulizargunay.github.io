@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Ahmet Can Mert"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from:
@@ -8,27 +8,33 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a PhD candidate at [Electronics Engineering Program](https://ee.sabanciuniv.edu/en) in [Sabanci University](https://www.sabanciuniv.edu/en), Istanbul, Turkey. I study under the supervision of Assist. Prof. Erdinc Ozturk and Prof. Erkay Savas at [Cryptography & Information Security (CISEC)](https://cisec.sabanciuniv.edu/) Group. I worked with Assist. Prof. Aydin Aysu as a visiting researcher at [Hardware and Embedded Cybersecurity Research Lab (HECTOR)](https://research.ece.ncsu.edu/aaysu/) in [North Carolina State University](https://www.ncsu.edu/), Raleigh, NC, in the summer of 2019. I received my BSc. and MSc. in Electronics Engineering from Sabanci University, Istanbul, Turkey, in 2015 and 2017 respectively. My research interests include homomorphic encryption, post-quantum cryptography, cryptographic hardware design and FPGAs. More specifically, I design hardware accelerator for lattice-based cryptography. Also, I work as a full-time research assistant at Electronics Engineering in Sabanci University since 2017.
+I am currently a PhD candidate at [Electronics Engineering](https://ee.sabanciuniv.edu/en) in [Sabanci University](https://www.sabanciuniv.edu/en), Istanbul, Turkey. I study under the supervision of Asst. Prof. Erdinc Ozturk and Prof. Erkay Savas at [Cryptography & Information Security (CISEC)](https://cisec.sabanciuniv.edu/) Group. I worked with Asst. Prof. Aydin Aysu as a visiting researcher at [Hardware and Embedded Cybersecurity Research Lab (HECTOR)](https://research.ece.ncsu.edu/aaysu/) in [North Carolina State University](https://www.ncsu.edu/), Raleigh, NC, in the summer of 2019. I received my BSc. and MSc. in Electronics Engineering from Sabanci University, Istanbul, Turkey, in 2015 and 2017 respectively. My research interests include homomorphic encryption, post-quantum cryptography, cryptographic hardware design and FPGAs. More specifically, I design hardware accelerator for lattice-based cryptography. Also, I work as a full-time research assistant at Electronics Engineering in Sabanci University since 2017.
 
 
 Education
 ======
-* PhD Candidate, Electronics Engineering, Sabanci University, Istanbul, Turkey (2017-Current)
-GPA: 4.00/4.00
+* <b>PhD Candidate</b>, Electronics Engineering, Sabanci University, Istanbul, Turkey (2017-Current)
+  * GPA: 4.00/4.00
   * Dissertation: "High Performance FPGA-Based Co-Processor Design for Lattice-Based Cryptography with a Hardware-Software Co-Design Approach"
 * MSc., Electronics Engineering, Sabanci University, Istanbul, Turkey (2015-2017)
   * GPA: 4.00/4.00
   * Thesis: "High Performance HEVC and FVC Video Compression Hardware Designs" supervised by Assoc.Prof. Ilker Hamzaoglu
 * BSc., Electronics Engineering, Sabanci University, Istanbul, Turkey (2010-2015)
-  * GPA: 3.95/4.00
+  * GPA: 3.95/4.00 (ranked as 3rd)
   * Senior Project: "A GPS-based Tracking and Accident Reporting System" supervised by Prof. Ibrahim Tekin and Assoc.Prof. Ayhan Bozkurt
 
 
-A data-driven personal website
+Experience
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+* Research Assistant at Electronics Engineering Program, Sabanci University, Istanbul, Turkey (Sep 2015-Current)
+  * Research Group: CISEC: Cryptography & Information Security Group (Sep 2017 - Current)
+  * Research Group: SoCLab: System-on-Chip Design & Test Lab (Sep 2015 - Aug 2017)
+* Visiting Researcher at Electrical and Computer Engineering Department, North Carolina State University, Raleigh, NC, USA (June 2019 - Oct 2019)
+  * Research Group: HECTOR: Hardware and Embedded Cybersecurity Research Lab (Supervisor: Assist.Prof. Aydin Aysu)
+* Scholarship Holder at TUBITAK (Scientific and Technological Research Council of Turkey) Project (Sep 2015-Aug 2017)
+Project title: "Low Power High Performance HEVC Video Compression Hardware Designs"
+* Intern at AVL Turkey, Gebze, Kocaeli (Jun 2014-Feb 2015)
+  * Project description: Design, implementation and testing of a motor control unit, an embedded system controlling an electronic motor, satisfying functional safety requirements
 
 Getting started
 ======
