@@ -77,13 +77,59 @@ author_profile: true
 * **Efficient Multiple Constant Multiplication Using DSP Blocks in FPGA**  
   **A. C. Mert**, H. Azgin, E. Kalali, I. Hamzaoglu,  
   *International Conference on Field Programmable Logic and Applications, (FPL), Aug. 2018, Dublin, Ireland*.  
-  <a href="https://ieeexplore.ieee.org/abstract/document/8533518">PDF</a>, <a href="https://github.com/acmert/mcm-on-fpga">Code</a>
+  <a href="https://ieeexplore.ieee.org/abstract/document/8533518">LINK</a>, <a href="https://github.com/acmert/mcm-on-fpga">Code</a>
 
+* **An HEVC Fractional Interpolation Hardware Using Memory Based Constant Multiplication**  
+  **A. C. Mert**, E. Kalali, I. Hamzaoglu,  
+  *ICCE, Jan. 2018, Las Vegas, USA*.  
+  <a href="https://ieeexplore.ieee.org/abstract/document/8326312">LINK</a>
+
+* **An Efficient FPGA Implementation of HEVC Intra Prediction**  
+  H. Azgin, **A. C. Mert**, E. Kalali, I. Hamzaoglu,  
+  *ICCE, Jan. 2018, Las Vegas, USA*.  
+  <a href="https://ieeexplore.ieee.org/abstract/document/8326332">LINK</a>
+
+* **An FPGA Implementation of Future Video Coding 2D Transform**  
+  **A. C. Mert**, E. Kalali, I. Hamzaoglu,  
+  *ICCE - Berlin, Sep. 2017, Berlin, Germany*.  
+  <a href="https://ieeexplore.ieee.org/abstract/document/8210582">LINK</a>
   
+* **Pixel Correlation Based Computation and Energy Reduction Techniques for HEVC Fractional Interpolation**  
+  **A. C. Mert**, E. Kalali, I. Hamzaoglu,  
+  *ICCE - Berlin, Sep. 2017, Berlin, Germany*.  
+  <a href="https://ieeexplore.ieee.org/abstract/document/8210583">LINK</a>  
 
-A. C. Mert, E. Kalali, I. Hamzaoglu, "An HEVC Fractional Interpolation Hardware Using Memory Based Constant Multiplication", ICCE, Jan. 2018, Las Vegas, USA. LINK
-H. Azgin, A. C. Mert, E. Kalali, I. Hamzaoglu, "An Efficient FPGA Implementation of HEVC Intra Prediction", ICCE, Jan. 2018, Las Vegas, USA. LINK
-A. C. Mert, E. Kalali, I. Hamzaoglu, "An FPGA Implementation of Future Video Coding 2D Transform", ICCE - Berlin, Sep. 2017, Berlin, Germany. LINK
-E. Kalali, A. C. Mert, I. Hamzaoglu, "Pixel Correlation Based Computation and Energy Reduction Techniques for HEVC Fractional Interpolation", ICCE - Berlin, Sep. 2017, Berlin, Germany. LINK
-A. C. Mert, E. Kalali, I. Hamzaoglu, "Low Complexity HEVC Sub-Pixel Motion Estimation Technique and Its Hardware Implementation", ICCE - Berlin, Sep. 2016, Berlin, Germany. LINK
-B. Soner, A. Icke, A. C. Mert, U. Basaran, S. T. Impram, I. Sahin, "Development of an electronic control unit for PMSM drives in automotive applications", ELECO, Nov. 2015, Bursa, Turkey. LINK
+* **Low Complexity HEVC Sub-Pixel Motion Estimation Technique and Its Hardware Implementation**  
+  **A. C. Mert**, E. Kalali, I. Hamzaoglu,  
+  *ICCE - Berlin, Sep. 2016, Berlin, Germany*.  
+  <a href="https://ieeexplore.ieee.org/abstract/document/7684744">LINK</a>  
+
+* **Development of an electronic control unit for PMSM drives in automotive applications**  
+  B. Soner, A. Icke, **A. C. Mert**, U. Basaran, S. T. Impram, I. Sahin,  
+  *ELECO, Nov. 2015, Bursa, Turkey*.  
+  <a href="https://ieeexplore.ieee.org/abstract/document/7394493">LINK</a> 
+
+## Preprints
+
+* **Low-Latency ASIC Algorithms of Modular Squaring of Large Integers for VDF Evaluation**  
+  **A. C. Mert**, E. Ozturk, E. Savas,  
+  *IACR, 2020*.  
+  <a href="https://eprint.iacr.org/2020/480.pdf">PDF</a>
+  
+* **Design and Implementation of a Fast and Scalable NTT-Based Polynomial Multiplier Architecture**  
+  **A. C. Mert**, E. Ozturk, E. Savas,  
+  *IACR, 2019*.  
+  <a href="https://eprint.iacr.org/2019/109.pdf">PDF</a>
+
+## Theses
+
+* **High Performance FPGA-Based Co-Processor Design for Lattice-Based Cryptography with a Hardware-Software Co-Design Approach**  
+  **A. C. Mert**,  
+  *Ph.D. Dissertation, Sabanci University, (to be submitted in 2021)*.  
+  
+* **High Performance HEVC and FVC Video Compression Hardware Designs**  
+  **A. C. Mert**,  
+  *MSc. Thesis, Sabanci University, August 2017*.  
+  <a href="http://research.sabanciuniv.edu/34742/1/AhmetCanMert_10162349.pdf">PDF</a>
+
+
