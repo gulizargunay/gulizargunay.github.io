@@ -12,7 +12,7 @@ author_profile: true
 * (2017-2021) - **Full Graduate Scholarship**, Sabanci University Electronics Engineering Ph.D. Program
 * (2015-2017) - **Full Graduate Scholarship**, Sabanci University Electronics Engineering MSc. Program
 * (2010-2015) - **Sakip Sabanci Scholarship**, Sabanci University Undergraduate Program  
-  For ranking 385th among 1.5 million participants in the Nationwide University Entrance Exam in 2010  
+  (for ranking 385th among 1.5 million participants in the Nationwide University Entrance Exam in 2010)  
 
 ## Service to scientific community (as reviewer)  
 
