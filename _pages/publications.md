@@ -46,15 +46,44 @@ author_profile: true
 
 * **A Hardware Accelerator for Polynomial Multiplication Operation of CRYSTALS-KYBER PQC Scheme**  
   F. Yaman, **A. C. Mert**, E. Ozturk, E. Savas,  
-  *DATE, 2021 (accepted)*.  
-  <a href="/files/date21.pdf">PDF</a>   
+  *Design, Automation & Test in Europe (DATE) Conference, 2021 (accepted)*.  
+  <a href="/files/date21.pdf">PDF</a>, <a href="https://github.com/acmert/kyber-polmul-hw">Code</a>   
 
 * **A Flexible and Scalable NTT Hardware: Applications from Homomorphically Encrypted Deep Learning to Post-Quantum Cryptography**  
   **A. C. Mert**, E. Karabulut, E. Ozturk, E. Savas, M. Becchi, A. Aysu,  
   *Design, Automation & Test in Europe (DATE) Conference, Mar. 2020, Grenoble, France*.  
-  <a href="https://research.ece.ncsu.edu/aaysu/wp-content/uploads/2019/12/date-20.pdf">PDF</a> 
+  <a href="https://research.ece.ncsu.edu/aaysu/wp-content/uploads/2019/12/date-20.pdf">PDF</a>, <a href="">Slides</a>, <a href="https://research.ece.ncsu.edu/aaysu/wp-content/uploads/DATE20_presentation_paper_695.mp4">Conference talk (25 min.)</a> 
 
+* **Design and Implementation of a Fast and Scalable NTT-Based Polynomial Multiplier Architecture**  
+  **A. C. Mert**, E. Ozturk, E. Savas,  
+  *Euromicro Conference on DSD, Aug. 2019, Kallithea, Greece*.  
+  <a href="http://research.sabanciuniv.edu/37407/1/PID6000233.pdf">PDF</a> 
 
+* **Novel Approximate Absolute Difference Hardware**  
+  **A. C. Mert**, H. Azgin, E. Kalali, I. Hamzaoglu,  
+  *Euromicro Conference on DSD, Aug. 2019, Kallithea, Greece*.  
+  <a href="http://research.sabanciuniv.edu/38221/1/dsd2019_aad.pdf">PDF</a> 
+  
+* **A Low Power Versatile Video Coding Fractional Interpolation Hardware**  
+  **A. C. Mert**, E. Kalali, I. Hamzaoglu,  
+  *Conference on Design and Architecture for Signal and Image Processing (DASIP), Oct. 2018, Porto, Portugal*.  
+  <a href="http://myweb.sabanciuniv.edu/ercankalali/files/2018/10/Mert_DASIP_VVC.pdf">PDF</a>
+  
+* **A Reconfigurable Fractional Interpolation Hardware for VVC Motion Compensation**  
+  **A. C. Mert**, H. Azgin, E. Kalali, I. Hamzaoglu,  
+  *Euromicro Conference on DSD, Aug. 2018, Prague, Czech Republic*.  
+  <a href="http://myweb.sabanciuniv.edu/ercankalali/files/2018/10/Azgin_DSD_VVC.pdf">PDF</a>
 
+* **Efficient Multiple Constant Multiplication Using DSP Blocks in FPGA**  
+  **A. C. Mert**, H. Azgin, E. Kalali, I. Hamzaoglu,  
+  *International Conference on Field Programmable Logic and Applications, (FPL), Aug. 2018, Dublin, Ireland*.  
+  <a href="https://ieeexplore.ieee.org/abstract/document/8533518">PDF</a>, <a href="https://github.com/acmert/mcm-on-fpga">Code</a>
 
+  
 
+A. C. Mert, E. Kalali, I. Hamzaoglu, "An HEVC Fractional Interpolation Hardware Using Memory Based Constant Multiplication", ICCE, Jan. 2018, Las Vegas, USA. LINK
+H. Azgin, A. C. Mert, E. Kalali, I. Hamzaoglu, "An Efficient FPGA Implementation of HEVC Intra Prediction", ICCE, Jan. 2018, Las Vegas, USA. LINK
+A. C. Mert, E. Kalali, I. Hamzaoglu, "An FPGA Implementation of Future Video Coding 2D Transform", ICCE - Berlin, Sep. 2017, Berlin, Germany. LINK
+E. Kalali, A. C. Mert, I. Hamzaoglu, "Pixel Correlation Based Computation and Energy Reduction Techniques for HEVC Fractional Interpolation", ICCE - Berlin, Sep. 2017, Berlin, Germany. LINK
+A. C. Mert, E. Kalali, I. Hamzaoglu, "Low Complexity HEVC Sub-Pixel Motion Estimation Technique and Its Hardware Implementation", ICCE - Berlin, Sep. 2016, Berlin, Germany. LINK
+B. Soner, A. Icke, A. C. Mert, U. Basaran, S. T. Impram, I. Sahin, "Development of an electronic control unit for PMSM drives in automotive applications", ELECO, Nov. 2015, Bursa, Turkey. LINK
