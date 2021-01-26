@@ -5,17 +5,16 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Awards  
+## Awards/Scholarships  
 
-* 2020 - **Best Paper Award** in Design, Automation and Test in Europe (DATE) Conference  
-  <a href="https://past.date-conference.com/proceedings-archive/2020/html/bestpaper.html">LINK</a>
+* 2020 - **Best Paper Award** in Design, Automation and Test in Europe (DATE) Conference (<a href="https://past.date-conference.com/proceedings-archive/2020/html/bestpaper.html">LINK</a>)
 * 2019 - IACR **Student Travel Support** for Conference on Cryptographic Hardware and Embedded Systems (CHES)
 * (2017-2021) - **Full Graduate Scholarship**, Sabanci University Electronics Engineering Ph.D. Program
 * (2015-2017) - **Full Graduate Scholarship**, Sabanci University Electronics Engineering MSc. Program
 * (2010-2015) - **Sakip Sabanci Scholarship**, Sabanci University Undergraduate Program
   For ranking 385th among 1.5 million participants in the Nationwide University Entrance Exam in 2010  
 
-## Service to scientific community  
+## Service to scientific community (as reviewer)  
 
 * I reviewed two papers for **IEEE Transactions on Circuits and Systems II: Express Briefs** (IF:2.8, h5-index:44)
 * I reviewed one paper for **IEEE Transactions on Emerging Topics in Computing** (IF:6.0, h5-index:41)
