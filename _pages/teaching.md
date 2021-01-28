@@ -26,11 +26,11 @@ author_profile: true
 ## Teaching  
 
 I taught classes at recitations and led lab sessions. I also helped course material, exam preparations and grading. List of classes:
-* EE58006 - Special Topics in EE: FPGA in Quantum Computing with Superconducting Qubits (Fall 2020)
-* EE401 - VLSI System Design I (Fall 2015,2016,2017)
-* EE310 - Hardware Description Languages (Spring 2016,2017,2019)
-* EE308 - Microcomputer Based System Design (Spring 2015,2019)
-* EE302 - Digital Integrated Circuits (Spring 2019)
-* CS303 - Logic and Digital System Design (Fall 2016,2017,2018,2019,2020)
-* ENS203 - Electronics Circuits I (Summer 2017)
+* [EE58006](https://www.sabanciuniv.edu/syllabus/courses.php?year=2020&term=01&subject=EE&code=58006&lan=eng) - Special Topics in EE: FPGA in Quantum Computing with Superconducting Qubits (Fall 2020)
+* [EE401](https://www.sabanciuniv.edu/syllabus/courses.php?year=2017&term=01&subject=EE&code=401&lan=eng) - VLSI System Design I (Fall 2015,2016,2017)
+* [EE310](https://www.sabanciuniv.edu/syllabus/courses.php?year=2019&term=02&subject=EE&code=310&lan=eng) - Hardware Description Languages (Spring 2016,2017,2019)
+* [EE308](https://www.sabanciuniv.edu/syllabus/courses.php?year=2019&term=02&subject=EE&code=308&lan=eng) - Microcomputer Based System Design (Spring 2015,2019)
+* [EE302](https://www.sabanciuniv.edu/syllabus/courses.php?year=2019&term=02&subject=EE&code=302&lan=eng) - Digital Integrated Circuits (Spring 2019)
+* [CS303](https://www.sabanciuniv.edu/syllabus/courses.php?year=2020&term=01&subject=CS&code=303&lan=eng) - Logic and Digital System Design (Fall 2016,2017,2018,2019,2020)
+* [ENS203](https://www.sabanciuniv.edu/syllabus/courses.php?year=2020&term=01&subject=ENS&code=203&lan=eng) - Electronics Circuits I (Summer 2017)
 * [MATH204](https://www.sabanciuniv.edu/syllabus/courses.php?year=2020&term=01&subject=MATH&code=204&lan=eng) - Discrete Mathematics (Spring 2018)
