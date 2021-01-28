@@ -20,8 +20,8 @@ author_profile: true
 * I reviewed one paper for **IEEE Transactions on Emerging Topics in Computing** (IF:6.0, h5-index:41)
 * I reviewed one paper for **IEEE Transactions on Information Forensics and Security** (IF:6.0, h5-index:86)
 * I reviewed one paper for **Journal of Cryptographic Engineering (JCEN)** (IF:1.6, h5-index:19)
-* I reviewed one paper for **2021 IEEE International Symposium on Circuits \& Systems (ISCAS)** (h5-index:11)
-* I reviewed two papers for **2019 International Conference on Reconfigurable Computing and FPGAs (ReConFig 2019)** (h5-index:13)}  
+* I reviewed one paper for **2021 IEEE International Symposium on Circuits & Systems (ISCAS)** (h5-index:11)
+* I reviewed two papers for **2019 International Conference on Reconfigurable Computing and FPGAs (ReConFig)** (h5-index:13)  
 
 ## Teaching  
 
@@ -33,4 +33,4 @@ I taught classes at recitations and led lab sessions. I also helped course mater
 * EE302 - Digital Integrated Circuits (Spring 2019)
 * CS303 - Logic and Digital System Design (Fall 2016,2017,2018,2019,2020)
 * ENS203 - Electronics Circuits I (Summer 2017)
-* MATH204 - Discrete Mathematics (Spring 2018)
+* [MATH204](https://www.sabanciuniv.edu/syllabus/courses.php?year=2020&term=01&subject=MATH&code=204&lan=eng) - Discrete Mathematics (Spring 2018)
