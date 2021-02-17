@@ -111,6 +111,11 @@ author_profile: true
 
 ## Preprints
 
+* **Efficient Number Theoretic Transform Implementation on GPU for Homomorphic Encryption**  
+  O. Ozerk, C. Elgezen, **A. C. Mert**, E. Ozturk, E. Savas,  
+  *IACR, 2021*.  
+  <a href="https://eprint.iacr.org/2021/124.pdf">PDF</a>
+
 * **Low-Latency ASIC Algorithms of Modular Squaring of Large Integers for VDF Evaluation**  
   **A. C. Mert**, E. Ozturk, E. Savas,  
   *IACR, 2020*.  
