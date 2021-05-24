@@ -14,7 +14,7 @@ I am currently a postdoctoral researcher at the [Institute of Applied Informatio
 ## Experience
 
 * <b>Postdoctoral Researcher</b> at the Institute of Applied Information Processing and Communications, Graz University of Technology, Graz, Austria (May 2021-)
-  * CryptEng (Asst. Prof. Sujoy Sinha Roy) (May 2021-)
+  * CryptEng Group (Asst. Prof. Sujoy Sinha Roy) (May 2021-)
 * <b>Research and Teaching Assistant</b> at Electronics Engineering, Sabanci University, Istanbul, Turkey (Sep 2015-May 2021)
   * Cryptography & Information Security Group (Prof. Erkay Savas) (Sep 2017-May 2021)
   * System-on-Chip Design & Test Lab (Assoc. Prof. Ilker Hamzaoglu) (Sep 2015 - Aug 2017)
