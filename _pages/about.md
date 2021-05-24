@@ -47,7 +47,7 @@ I am currently a postdoctoral researcher at the Institute of Applied Information
 
 ## Contact
 
-Inffeldgasse 16a/II
-Room IF02042
-8010, Graz, Austria
+Inffeldgasse 16a/II. 
+Room IF02042. 
+8010, Graz, Austria. 
 Email: amert(at)tugraz(dot)at
