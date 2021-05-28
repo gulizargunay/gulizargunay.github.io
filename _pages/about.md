@@ -13,14 +13,14 @@ I am currently a postdoctoral researcher at the [Institute of Applied Informatio
 
 ## Experience
 
-* <b>Postdoctoral Researcher</b> at the Institute of Applied Information Processing and Communications, Graz University of Technology, Graz, Austria (May 2021-)
-  * CryptEng Group (Asst. Prof. Sujoy Sinha Roy) (May 2021-)
-* <b>Research and Teaching Assistant</b> at Electronics Engineering, Sabanci University, Istanbul, Turkey (Sep 2015-May 2021)
-  * Cryptography & Information Security Group (Prof. Erkay Savas) (Sep 2017-May 2021)
-  * System-on-Chip Design & Test Lab (Assoc. Prof. Ilker Hamzaoglu) (Sep 2015 - Aug 2017)
-* <b>Visiting Researcher</b> at Electrical and Computer Engineering Department, North Carolina State University, Raleigh, NC, USA (June 2019 - Oct 2019)
-  * Hardware and Embedded Cybersecurity Research Lab (Asst. Prof. Aydin Aysu)
-* <b>Intern</b> at AVL Turkey, Gebze, Kocaeli (Jun 2014-Feb 2015)
+* <b>Postdoctoral Researcher</b> at the Institute of Applied Information Processing and Communications, Graz University of Technology, Graz, Austria (05/2021-)
+  * CryptEng Group (Leader: Asst. Prof. Sujoy Sinha Roy) 
+* <b>Research and Teaching Assistant</b> at Electronics Engineering, Sabanci University, Istanbul, Turkey (09/2015-05/2021)
+  * CISEC Group (Leader: Prof. Erkay Savas) (*09/2017-04/2021*)
+  * SoC Design & Test Lab (Leader: Assoc. Prof. Ilker Hamzaoglu) (*09/2015-08/2017*)
+* <b>Visiting Researcher</b> at Electrical and Computer Engineering Department, North Carolina State University, Raleigh, NC, USA (06/2019-10/2019)
+  * HECTOR Lab (Leader: Asst. Prof. Aydin Aysu)
+* <b>Intern</b> at AVL Turkey, Kocaeli, Turkey (06/2014-02/2015)
   
 
 ## Education
