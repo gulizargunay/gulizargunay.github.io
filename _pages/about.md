@@ -12,7 +12,7 @@ I am currently a postdoctoral researcher at the [Institute of Applied Informatio
 <p align="center">
 <img src="/images/research.png"
      alt="Research"
-     style="center: left; margin-right: 10px; width=150px;" />
+     style="center: left; margin-right: 10px; width=300px;" />
 </p>
   
 <!--My research interests include homomorphic encryption, post-quantum cryptography, cryptographic hardware design and FPGAs. More specifically, I design hardware accelerator for lattice-based cryptography.-->
