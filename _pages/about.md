@@ -7,7 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a postdoctoral researcher at the [Institute of Applied Information Processing and Communications](https://www.iaik.tugraz.at/), [Graz University of Technology](https://www.tugraz.at/home/), Graz, Austria. Prior to that, I received my Ph.D., MSc, BSc in [Electronics Engineering](https://ee.sabanciuniv.edu/en) from [Sabanci University](https://www.sabanciuniv.edu/en), Istanbul, Turkey in 2015, 2017, 2021, respectively. My primary research focus is designing and implementing hardware accelerators for lattice-based cryptography. Moreover, I work on the theoretical aspects of privacy-preserving systems such as homomorphic encryption and post-quantum cryptography. To that end, my research interests lie at the intersection of cryptographic hardware design, homomorphic encryption and post-quantum cryptography.
+I am currently a postdoctoral researcher at the [Institute of Applied Information Processing and Communications](https://www.iaik.tugraz.at/), [Graz University of Technology](https://www.tugraz.at/home/), Graz, Austria. Prior to that, I received my Ph.D., MSc, BSc in [Electronics Engineering](https://ee.sabanciuniv.edu/en) from [Sabanci University](https://www.sabanciuniv.edu/en), Istanbul, Turkey in 2015, 2017, 2021, respectively. 
+
+My primary research focus is designing and implementing hardware accelerators for lattice-based cryptography. Moreover, I work on the theoretical aspects of privacy-preserving systems such as homomorphic encryption and post-quantum cryptography. To that end, my research interests lie at the intersection of cryptographic hardware design, homomorphic encryption and post-quantum cryptography.
 
 <p align="center">
 <img src="/images/research.png"
@@ -43,7 +45,7 @@ I am currently a postdoctoral researcher at the [Institute of Applied Informatio
   * GPA: 3.95/4.00 (ranked as 3rd)
 <!--* Senior Project: "<it>A GPS-based Tracking and Accident Reporting System</it>" supervised by Prof. Ibrahim Tekin and Assoc.Prof. Ayhan Bozkurt-->
 
-
+<!--
 ## Research Interests
 
 * Lattice-Based Cryptography
@@ -51,7 +53,7 @@ I am currently a postdoctoral researcher at the [Institute of Applied Informatio
 * Post-Quantum Cryptography
 * Cryptographic Hardware Design
 * Hardware Accelerators, FPGAs
-
+-->
 
 ## Contact
 
