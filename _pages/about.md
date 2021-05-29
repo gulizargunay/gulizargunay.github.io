@@ -11,7 +11,7 @@ I am currently a postdoctoral researcher at the [Institute of Applied Informatio
 
 <img src="/images/500x300.png"
      alt="Markdown Monster icon"
-     style="float: left; margin-right: 10px;" />
+     style="center: left; margin-right: 10px;" />
 
 <!--My research interests include homomorphic encryption, post-quantum cryptography, cryptographic hardware design and FPGAs. More specifically, I design hardware accelerator for lattice-based cryptography.-->
 
