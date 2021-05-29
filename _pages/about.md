@@ -9,9 +9,9 @@ redirect_from:
 ---
 I am currently a postdoctoral researcher at the [Institute of Applied Information Processing and Communications](https://www.iaik.tugraz.at/), [Graz University of Technology](https://www.tugraz.at/home/), Graz, Austria. Prior to that, I received my Ph.D., MSc, BSc in [Electronics Engineering](https://ee.sabanciuniv.edu/en) from [Sabanci University](https://www.sabanciuniv.edu/en), Istanbul, Turkey in 2015, 2017, 2021, respectively. My primary research focus is designing and implementing hardware accelerators for lattice-based cryptography. Moreover, I work on the theoretical aspects of privacy-preserving systems such as homomorphic encryption and post-quantum cryptography. To that end, my research interests lie at the intersection of cryptographic hardware design, homomorphic encryption and post-quantum cryptography.
 
-<p align="research">
-<img src="/images/500x300.png"
-     alt="Markdown Monster icon"
+<p align="center">
+<img src="/images/research.png"
+     alt="Research"
      style="center: left; margin-right: 10px;" />
 </p>
   
