@@ -37,10 +37,10 @@ My primary research focus is designing and implementing hardware accelerators fo
 
 * <b>Ph.D.</b>, Electronics Engineering, Sabanci University, Istanbul, Turkey (2017-2021)
   * GPA: 4.00/4.00
-  * Dissertation: "<it>High Performance FPGA-Based Co-Processor Design for Lattice-Based Cryptography with a Hardware-Software Co-Design Approach</it>" supervised by Asst. Prof. Erdinc Ozturk
+  * Dissertation: *Efficient Hardware Implementations for Lattice-based Cryptography Primitives* supervised by Asst. Prof. Erdinc Ozturk
 * <b>MSc.</b>, Electronics Engineering, Sabanci University, Istanbul, Turkey (2015-2017)
   * GPA: 4.00/4.00
-  * Thesis: "<it>High Performance HEVC and FVC Video Compression Hardware Designs</it>" supervised by Assoc. Prof. Ilker Hamzaoglu
+  * Thesis: *High Performance HEVC and FVC Video Compression Hardware Designs* supervised by Assoc. Prof. Ilker Hamzaoglu
 * <b>BSc.</b>, Electronics Engineering, Sabanci University, Istanbul, Turkey (2010-2015)
   * GPA: 3.95/4.00 (ranked as 3rd)
 <!--* Senior Project: "<it>A GPS-based Tracking and Accident Reporting System</it>" supervised by Prof. Ibrahim Tekin and Assoc.Prof. Ayhan Bozkurt-->
