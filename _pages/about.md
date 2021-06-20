@@ -29,7 +29,7 @@ My primary research focus is designing and implementing hardware accelerators fo
   * [CISec Group](https://cisec.sabanciuniv.edu/) (Leader: Dr. Erkay Savas) (*09/2017-04/2021*)
   * [SoC Design & Test Lab](http://labs.sabanciuniv.edu/soclab/) (Leader: Dr. Ilker Hamzaoglu) (*09/2015-08/2017*)
 * <b>Visiting Researcher</b> at Electrical and Computer Engineering Department, North Carolina State University, Raleigh, NC, USA (06/2019-10/2019)
-  * [HECTOR Lab](https://research.ece.ncsu.edu/aaysu/) (Leader: Dr. Prof. Aydin Aysu)
+  * [HECTOR Lab](https://research.ece.ncsu.edu/aaysu/) (Leader: Dr. Aydin Aysu)
 * <b>Intern</b> at AVL Turkey, Kocaeli, Turkey (06/2014-02/2015)
   
 
