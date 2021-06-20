@@ -24,12 +24,12 @@ My primary research focus is designing and implementing hardware accelerators fo
 ## Experience
 
 * <b>Postdoctoral Researcher</b> at the IAIK, Graz University of Technology, Graz, Austria (05/2021-*current*)
-  * CryptEng Group (Leader: Asst. Prof. Sujoy Sinha Roy) 
+  * CryptEng Group (Leader: Dr. Sujoy Sinha Roy) 
 * <b>Research and Teaching Assistant</b> at Electronics Engineering, Sabanci University, Istanbul, Turkey (09/2015-04/2021)
-  * [CISec Group](https://cisec.sabanciuniv.edu/) (Leader: Prof. Erkay Savas) (*09/2017-04/2021*)
-  * [SoC Design & Test Lab](http://labs.sabanciuniv.edu/soclab/) (Leader: Assoc. Prof. Ilker Hamzaoglu) (*09/2015-08/2017*)
+  * [CISec Group](https://cisec.sabanciuniv.edu/) (Leader: Dr. Erkay Savas) (*09/2017-04/2021*)
+  * [SoC Design & Test Lab](http://labs.sabanciuniv.edu/soclab/) (Leader: Dr. Ilker Hamzaoglu) (*09/2015-08/2017*)
 * <b>Visiting Researcher</b> at Electrical and Computer Engineering Department, North Carolina State University, Raleigh, NC, USA (06/2019-10/2019)
-  * [HECTOR Lab](https://research.ece.ncsu.edu/aaysu/) (Leader: Asst. Prof. Aydin Aysu)
+  * [HECTOR Lab](https://research.ece.ncsu.edu/aaysu/) (Leader: Dr. Prof. Aydin Aysu)
 * <b>Intern</b> at AVL Turkey, Kocaeli, Turkey (06/2014-02/2015)
   
 
@@ -37,10 +37,10 @@ My primary research focus is designing and implementing hardware accelerators fo
 
 * <b>Ph.D.</b>, Electronics Engineering, Sabanci University, Istanbul, Turkey (2017-2021)
   * GPA: 4.00/4.00
-  * Dissertation: *Efficient Hardware Implementations for Lattice-based Cryptography Primitives* supervised by Asst. Prof. Erdinc Ozturk
+  * Dissertation: *Efficient Hardware Implementations for Lattice-based Cryptography Primitives* (supervised by Dr. Erdinc Ozturk)
 * <b>MSc.</b>, Electronics Engineering, Sabanci University, Istanbul, Turkey (2015-2017)
   * GPA: 4.00/4.00
-  * Thesis: *High Performance HEVC and FVC Video Compression Hardware Designs* supervised by Assoc. Prof. Ilker Hamzaoglu
+  * Thesis: *High Performance HEVC and FVC Video Compression Hardware Designs* (supervised by Dr. Ilker Hamzaoglu)
 * <b>BSc.</b>, Electronics Engineering, Sabanci University, Istanbul, Turkey (2010-2015)
   * GPA: 3.95/4.00 (ranked as 3rd)
 <!--* Senior Project: "<it>A GPS-based Tracking and Accident Reporting System</it>" supervised by Prof. Ibrahim Tekin and Assoc.Prof. Ayhan Bozkurt-->
