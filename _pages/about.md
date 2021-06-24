@@ -57,7 +57,6 @@ My primary research focus is designing and implementing hardware accelerators fo
 
 ## Contact
 
-Inffeldgasse 16a/II\
-Room IF02042\
+Inffeldgasse 16a/II, Room IF02024\
 8010, Graz, Austria\
 Email: ahmet (dot) mert (at) iaik (dot) tugraz (dot) at
