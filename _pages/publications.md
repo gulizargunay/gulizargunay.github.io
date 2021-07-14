@@ -7,6 +7,11 @@ author_profile: true
 
 ## Journal Articles  
 
+* **Efficient Number Theoretic Transform Implementation on GPU for Homomorphic Encryption**  
+  O. Ozerk, C. Elgezen, **A. C. Mert**, E. Ozturk, E. Savas,  
+  *The Journal of Supercomputing, 2021*.  
+  <a href="https://doi.org/10.1007/s11227-021-03980-5">LINK</a>, <a href="https://github.com/SU-CISEC/gpu-ntt">Code</a> 
+
 * **Low-Latency ASIC Algorithms of Modular Squaring of Large Integers for VDF Evaluation**  
   **A. C. Mert**, E. Ozturk, E. Savas,  
   *IEEE Transactions on Computers, 2020 (early access)*.  
