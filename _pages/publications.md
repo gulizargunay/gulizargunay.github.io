@@ -51,7 +51,7 @@ author_profile: true
 
 * **A Hardware Accelerator for Polynomial Multiplication Operation of CRYSTALS-KYBER PQC Scheme**  
   F. Yaman, **A. C. Mert**, E. Ozturk, E. Savas,  
-  *Design, Automation & Test in Europe (DATE) Conference, 2021 (accepted)*.  
+  *Design, Automation & Test in Europe (DATE) Conference, Feb. 2021, Grenoble, France*.  
   <a href="/files/date21.pdf">PDF</a>, <a href="https://github.com/acmert/kyber-polmul-hw">Code</a>   
 
 * **A Flexible and Scalable NTT Hardware: Applications from Homomorphically Encrypted Deep Learning to Post-Quantum Cryptography**  
