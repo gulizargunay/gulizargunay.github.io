@@ -133,9 +133,10 @@ author_profile: true
 
 ## Theses
 
-* **High Performance FPGA-Based Co-Processor Design for Lattice-Based Cryptography with a Hardware-Software Co-Design Approach**  
+* **Efficient Hardware Implementations for Lattice-based Cryptography Primitives**  
   **A. C. Mert**,  
-  *Ph.D. Dissertation, Sabanci University, (to be submitted in 2021)*.  
+  *Ph.D. Dissertation, Sabanci University, May 2021*.  
+  <a href="https://research.sabanciuniv.edu/42483/1/10256866.pdf">PDF</a>
   
 * **High Performance HEVC and FVC Video Compression Hardware Designs**  
   **A. C. Mert**,  
