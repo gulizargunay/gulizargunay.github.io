@@ -117,7 +117,7 @@ author_profile: true
 ## Preprints
 
 * **A Unified Cryptoprocessor for Lattice-based Signature and Key-exchange**  
-  Aikata, **A. C. Mert**, D. Jacquemin, A. Das, D. Matthews, S. Ghosh, S. Sinha Roy,
+  Aikata, **A. C. Mert**, D. Jacquemin, A. Das, D. Matthews, S. Ghosh, S. Sinha Roy,  
   *IACR, 2021*.  
   <a href="https://eprint.iacr.org/2021/1461.pdf">PDF</a>
 
