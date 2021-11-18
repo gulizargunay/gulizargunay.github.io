@@ -116,6 +116,11 @@ author_profile: true
 
 ## Preprints
 
+* **CoHA-NTT: A Configurable Hardware Accelerator for NTT-based Polynomial Multiplication**  
+  K. Derya, **A. C. Mert**, E. Ozturk, E. Savas,  
+  *IACR, 2021*.  
+  <a href="">PDF</a>, <a href="https://github.com/kemalderya/pqc-param-ntt">Code</a> 
+
 * **A Unified Cryptoprocessor for Lattice-based Signature and Key-exchange**  
   Aikata, **A. C. Mert**, D. Jacquemin, A. Das, D. Matthews, S. Ghosh, S. Sinha Roy,  
   *IACR, 2021*.  
