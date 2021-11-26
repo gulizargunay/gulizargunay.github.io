@@ -5,12 +5,21 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Journal Articles  
+## 2021  
+
+* **CoHA-NTT: A Configurable Hardware Accelerator for NTT-based Polynomial Multiplication**  
+  K. Derya, **A. C. Mert**, E. Ozturk, E. Savas, *IACR, 2021*. <a href="https://eprint.iacr.org/2021/1527.pdf">Preprint</a>/<a href="https://github.com/kemalderya/pqc-param-ntt">Code</a> 
+
+* **A Unified Cryptoprocessor for Lattice-based Signature and Key-exchange**  
+  Aikata, **A. C. Mert**, D. Jacquemin, A. Das, D. Matthews, S. Ghosh, S. Sinha Roy, *IACR, 2021*. <a href="https://eprint.iacr.org/2021/1461.pdf">Preprint</a>
 
 * **Efficient Number Theoretic Transform Implementation on GPU for Homomorphic Encryption**  
-  O. Ozerk, C. Elgezen, **A. C. Mert**, E. Ozturk, E. Savas,  
-  *The Journal of Supercomputing, 2021*.  
-  <a href="https://doi.org/10.1007/s11227-021-03980-5">LINK</a>, <a href="https://github.com/SU-CISEC/gpu-ntt">Code</a> 
+  O. Ozerk, C. Elgezen, **A. C. Mert**, E. Ozturk, E. Savas, *The Journal of Supercomputing, 2021*. <a href="https://doi.org/10.1007/s11227-021-03980-5">Link</a>/<a href="https://eprint.iacr.org/2021/124.pdf">Preprint</a>/<a href="https://github.com/SU-CISEC/gpu-ntt">Code</a> 
+
+* **A Hardware Accelerator for Polynomial Multiplication Operation of CRYSTALS-KYBER PQC Scheme**  
+  F. Yaman, **A. C. Mert**, E. Ozturk, E. Savas, *Design, Automation & Test in Europe (DATE) Conference, Feb. 2021, Grenoble, France*. <a href="/files/date21.pdf">PDF</a>/<a href="https://github.com/acmert/kyber-polmul-hw">Code</a> 
+
+## 2020
 
 * **Low-Latency ASIC Algorithms of Modular Squaring of Large Integers for VDF Evaluation**  
   **A. C. Mert**, E. Ozturk, E. Savas,  
@@ -47,12 +56,7 @@ author_profile: true
   *IEEE Transactions on Consumer Electronics, vol. 62, no. 2, May 2016*.  
   <a href="https://ieeexplore.ieee.org/abstract/document/7514716">LINK</a> 
   
-## Peer-Reviewed Conference Proceedings
-
-* **A Hardware Accelerator for Polynomial Multiplication Operation of CRYSTALS-KYBER PQC Scheme**  
-  F. Yaman, **A. C. Mert**, E. Ozturk, E. Savas,  
-  *Design, Automation & Test in Europe (DATE) Conference, Feb. 2021, Grenoble, France*.  
-  <a href="/files/date21.pdf">PDF</a>, <a href="https://github.com/acmert/kyber-polmul-hw">Code</a>   
+## Peer-Reviewed Conference Proceedings  
 
 * **A Flexible and Scalable NTT Hardware: Applications from Homomorphically Encrypted Deep Learning to Post-Quantum Cryptography**  
   **A. C. Mert**, E. Karabulut, E. Ozturk, E. Savas, M. Becchi, A. Aysu,  
@@ -115,21 +119,6 @@ author_profile: true
   <a href="https://ieeexplore.ieee.org/abstract/document/7394493">LINK</a> 
 
 ## Preprints
-
-* **CoHA-NTT: A Configurable Hardware Accelerator for NTT-based Polynomial Multiplication**  
-  K. Derya, **A. C. Mert**, E. Ozturk, E. Savas,  
-  *IACR, 2021*.  
-  <a href="https://eprint.iacr.org/2021/1527.pdf">PDF</a>, <a href="https://github.com/kemalderya/pqc-param-ntt">Code</a> 
-
-* **A Unified Cryptoprocessor for Lattice-based Signature and Key-exchange**  
-  Aikata, **A. C. Mert**, D. Jacquemin, A. Das, D. Matthews, S. Ghosh, S. Sinha Roy,  
-  *IACR, 2021*.  
-  <a href="https://eprint.iacr.org/2021/1461.pdf">PDF</a>
-
-* **Efficient Number Theoretic Transform Implementation on GPU for Homomorphic Encryption**  
-  O. Ozerk, C. Elgezen, **A. C. Mert**, E. Ozturk, E. Savas,  
-  *IACR, 2021*.  
-  <a href="https://eprint.iacr.org/2021/124.pdf">PDF</a>, <a href="https://github.com/SU-CISEC/gpu-ntt">Code</a> 
 
 * **Low-Latency ASIC Algorithms of Modular Squaring of Large Integers for VDF Evaluation**  
   **A. C. Mert**, E. Ozturk, E. Savas,  
