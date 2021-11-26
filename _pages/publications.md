@@ -8,38 +8,44 @@ author_profile: true
 ## 2021  
 
 * **CoHA-NTT: A Configurable Hardware Accelerator for NTT-based Polynomial Multiplication**  
-  K. Derya, **A. C. Mert**, E. Ozturk, E. Savas, *IACR, 2021*. <a href="https://eprint.iacr.org/2021/1527.pdf">Preprint</a>/<a href="https://github.com/kemalderya/pqc-param-ntt">Code</a> 
+  K. Derya, **A. C. Mert**, E. Ozturk, E. Savas,  
+  *IACR, 2021*. (<a href="https://eprint.iacr.org/2021/1527.pdf">Preprint</a>, <a href="https://github.com/kemalderya/pqc-param-ntt">Code</a>) 
 
 * **A Unified Cryptoprocessor for Lattice-based Signature and Key-exchange**  
-  Aikata, **A. C. Mert**, D. Jacquemin, A. Das, D. Matthews, S. Ghosh, S. Sinha Roy, *IACR, 2021*. <a href="https://eprint.iacr.org/2021/1461.pdf">Preprint</a>
+  Aikata, **A. C. Mert**, D. Jacquemin, A. Das, D. Matthews, S. Ghosh, S. Sinha Roy,  
+  *IACR, 2021*. (<a href="https://eprint.iacr.org/2021/1461.pdf">Preprint</a>)
 
 * **Efficient Number Theoretic Transform Implementation on GPU for Homomorphic Encryption**  
-  O. Ozerk, C. Elgezen, **A. C. Mert**, E. Ozturk, E. Savas, *The Journal of Supercomputing, 2021*. <a href="https://doi.org/10.1007/s11227-021-03980-5">Link</a>/<a href="https://eprint.iacr.org/2021/124.pdf">Preprint</a>/<a href="https://github.com/SU-CISEC/gpu-ntt">Code</a> 
+  O. Ozerk, C. Elgezen, **A. C. Mert**, E. Ozturk, E. Savas,  
+  *The Journal of Supercomputing, 2021*. (<a href="https://doi.org/10.1007/s11227-021-03980-5">Link</a>, <a href="https://eprint.iacr.org/2021/124.pdf">Preprint</a>, <a href="https://github.com/SU-CISEC/gpu-ntt">Code</a>) 
 
 * **A Hardware Accelerator for Polynomial Multiplication Operation of CRYSTALS-KYBER PQC Scheme**  
-  F. Yaman, **A. C. Mert**, E. Ozturk, E. Savas, *Design, Automation & Test in Europe (DATE) Conference, Feb. 2021, Grenoble, France*. <a href="/files/date21.pdf">PDF</a>/<a href="https://github.com/acmert/kyber-polmul-hw">Code</a> 
+  F. Yaman, **A. C. Mert**, E. Ozturk, E. Savas,  
+  *DATE Conference, Feb. 2021, Grenoble, France*. (<a href="/files/date21.pdf">Link</a>, <a href="https://eprint.iacr.org/2021/485.pdf">Preprint</a>, <a href="https://github.com/acmert/kyber-polmul-hw">Code</a>) 
 
 ## 2020
 
 * **Low-Latency ASIC Algorithms of Modular Squaring of Large Integers for VDF Evaluation**  
   **A. C. Mert**, E. Ozturk, E. Savas,  
-  *IEEE Transactions on Computers, 2020 (early access)*.  
-  <a href="https://ieeexplore.ieee.org/document/9289016">LINK</a> 
+  *IEEE Transactions on Computers, 2020 (early access)*. (<a href="https://ieeexplore.ieee.org/document/9289016">Link</a>)
 
 * **An Extensive Study of Flexible Design Methods for the Number Theoretic Transform**  
   **A. C. Mert**, E. Karabulut, E. Ozturk, E. Savas, A. Aysu,  
-  *IEEE Transactions on Computers, 2020 (early access)*.  
-  <a href="https://ieeexplore.ieee.org/document/9171507">LINK</a>, <a href="https://github.com/acmert/parametric-ntt">Code</a> 
+  *IEEE Transactions on Computers, 2020 (early access)*.  (<a href="https://ieeexplore.ieee.org/document/9171507">Link</a>, <a href="https://github.com/acmert/parametric-ntt">Code</a>)
   
 * **FPGA Implementation of a Run-time Configurable NTT-based Polynomial Multiplication Hardware**  
   **A. C. Mert**, E. Ozturk, E. Savas,  
-  *Microprocessors and Microsystems, vol. 78, Aug. 2020*.  
-  <a href="https://doi.org/10.1016/j.micpro.2020.103219">LINK</a> 
+  *Microprocessors and Microsystems, vol. 78, Aug. 2020*. (<a href="https://doi.org/10.1016/j.micpro.2020.103219">Link</a>)
+  
+* **A Flexible and Scalable NTT Hardware: Applications from Homomorphically Encrypted Deep Learning to Post-Quantum Cryptography**  
+  **A. C. Mert**, E. Karabulut, E. Ozturk, E. Savas, M. Becchi, A. Aysu,  
+  *DATE Conference, Mar. 2020, Grenoble, France*. (<a href="https://research.ece.ncsu.edu/aaysu/wp-content/uploads/2019/12/date-20.pdf">Link</a>, <a href="">Slides</a>, <a href="https://research.ece.ncsu.edu/aaysu/wp-content/uploads/DATE20_presentation_paper_695.mp4">Conference talk (25 min.)</a>)   
   
 * **Design and Implementation of Encryption/Decryption Architectures for BFV Homomorphic Encryption Scheme**  
   **A. C. Mert**, E. Ozturk, E. Savas,  
-  *IEEE Transactions on Very Large Scale Integration (VLSI) Systems, vol. 28, no. 2, Feb. 2020*.  
-  <a href="https://ieeexplore.ieee.org/document/8866755">LINK</a> 
+  *IEEE Transactions on Very Large Scale Integration (VLSI) Systems, vol. 28, no. 2, Feb. 2020*. (<a href="https://ieeexplore.ieee.org/document/8866755">Link</a>) 
+  
+## 2019  
   
 * **Reconfigurable Intra Prediction Hardware for Future Video Coding**  
   H. Azgin, **A. C. Mert**, E. Kalali, I. Hamzaoglu,  
@@ -57,11 +63,6 @@ author_profile: true
   <a href="https://ieeexplore.ieee.org/abstract/document/7514716">LINK</a> 
   
 ## Peer-Reviewed Conference Proceedings  
-
-* **A Flexible and Scalable NTT Hardware: Applications from Homomorphically Encrypted Deep Learning to Post-Quantum Cryptography**  
-  **A. C. Mert**, E. Karabulut, E. Ozturk, E. Savas, M. Becchi, A. Aysu,  
-  *Design, Automation & Test in Europe (DATE) Conference, Mar. 2020, Grenoble, France*.  
-  <a href="https://research.ece.ncsu.edu/aaysu/wp-content/uploads/2019/12/date-20.pdf">PDF</a>, <a href="">Slides</a>, <a href="https://research.ece.ncsu.edu/aaysu/wp-content/uploads/DATE20_presentation_paper_695.mp4">Conference talk (25 min.)</a> 
 
 * **Design and Implementation of a Fast and Scalable NTT-Based Polynomial Multiplier Architecture**  
   **A. C. Mert**, E. Ozturk, E. Savas,  
