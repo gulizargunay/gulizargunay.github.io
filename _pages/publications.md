@@ -7,6 +7,10 @@ author_profile: true
 
 ## 2021  
 
+* **Accelerator for Computing on Encrypted Data**  
+  S. S. Roy, **A. C. Mert**, Aikata, S. Kwon, Y. Shin, D. Yoo,  
+  *IACR, 2021*. (<a href="">Preprint</a>) 
+
 * **CoHA-NTT: A Configurable Hardware Accelerator for NTT-based Polynomial Multiplication**  
   K. Derya, **A. C. Mert**, E. Ozturk, E. Savas,  
   *IACR, 2021*. (<a href="https://eprint.iacr.org/2021/1527.pdf">Preprint</a>, <a href="https://github.com/kemalderya/pqc-param-ntt">Code</a>) 
@@ -27,7 +31,7 @@ author_profile: true
 
 * **Low-Latency ASIC Algorithms of Modular Squaring of Large Integers for VDF Evaluation**  
   **A. C. Mert**, E. Ozturk, E. Savas,  
-  *IEEE Transactions on Computers, 2020 (early access)*. (<a href="https://ieeexplore.ieee.org/document/9289016">Link</a>)
+  *IEEE Transactions on Computers, 2020 (early access)*. (<a href="https://ieeexplore.ieee.org/document/9289016">Link</a>, <a href="https://eprint.iacr.org/2020/480.pdf">Preprint</a>)
 
 * **An Extensive Study of Flexible Design Methods for the Number Theoretic Transform**  
   **A. C. Mert**, E. Karabulut, E. Ozturk, E. Savas, A. Aysu,  
@@ -46,34 +50,17 @@ author_profile: true
   *IEEE Transactions on Very Large Scale Integration (VLSI) Systems, vol. 28, no. 2, Feb. 2020*. (<a href="https://ieeexplore.ieee.org/document/8866755">Link</a>) 
   
 ## 2019  
-  
-* **Reconfigurable Intra Prediction Hardware for Future Video Coding**  
-  H. Azgin, **A. C. Mert**, E. Kalali, I. Hamzaoglu,  
-  *IEEE Transactions on Consumer Electronics, vol. 63, no. 4, Nov. 2017*.  
-  <a href="https://ieeexplore.ieee.org/abstract/document/8246799">LINK</a> 
-  
-* **High Performance 2D Transform Hardware for Future Video Coding**  
-  **A. C. Mert**, E. Kalali, I. Hamzaoglu,  
-  *IEEE Transactions on Consumer Electronics, vol. 63, no. 2, May 2017*.  
-  <a href="https://ieeexplore.ieee.org/abstract/document/8013250">LINK</a> 
-  
-* **A Computation and Energy Reduction Technique for HEVC Discrete Cosine Transform**  
-  E. Kalali, **A. C. Mert**, I. Hamzaoglu,  
-  *IEEE Transactions on Consumer Electronics, vol. 62, no. 2, May 2016*.  
-  <a href="https://ieeexplore.ieee.org/abstract/document/7514716">LINK</a> 
-  
-## Peer-Reviewed Conference Proceedings  
 
 * **Design and Implementation of a Fast and Scalable NTT-Based Polynomial Multiplier Architecture**  
   **A. C. Mert**, E. Ozturk, E. Savas,  
-  *Euromicro Conference on DSD, Aug. 2019, Kallithea, Greece*.  
-  <a href="http://research.sabanciuniv.edu/37407/1/PID6000233.pdf">PDF</a> 
+  *Euromicro Conference on DSD, Aug. 2019, Kallithea, Greece*. (<a href="http://research.sabanciuniv.edu/37407/1/PID6000233.pdf">Link</a>, <a href="https://eprint.iacr.org/2019/109.pdf">Preprint</a>)
 
 * **Novel Approximate Absolute Difference Hardware**  
   **A. C. Mert**, H. Azgin, E. Kalali, I. Hamzaoglu,  
-  *Euromicro Conference on DSD, Aug. 2019, Kallithea, Greece*.  
-  <a href="http://research.sabanciuniv.edu/38221/1/dsd2019_aad.pdf">PDF</a> 
-  
+  *Euromicro Conference on DSD, Aug. 2019, Kallithea, Greece*. (<a href="http://research.sabanciuniv.edu/38221/1/dsd2019_aad.pdf">Link</a>)
+
+## 2018 - ...
+
 * **A Low Power Versatile Video Coding Fractional Interpolation Hardware**  
   **A. C. Mert**, E. Kalali, I. Hamzaoglu,  
   *Conference on Design and Architecture for Signal and Image Processing (DASIP), Oct. 2018, Porto, Portugal*.  
@@ -99,6 +86,10 @@ author_profile: true
   *ICCE, Jan. 2018, Las Vegas, USA*.  
   <a href="https://ieeexplore.ieee.org/abstract/document/8326332">LINK</a>
 
+* **Reconfigurable Intra Prediction Hardware for Future Video Coding**  
+  H. Azgin, **A. C. Mert**, E. Kalali, I. Hamzaoglu,  
+  *IEEE Transactions on Consumer Electronics, vol. 63, no. 4, Nov. 2017*. (<a href="https://ieeexplore.ieee.org/abstract/document/8246799">Link</a>)
+
 * **An FPGA Implementation of Future Video Coding 2D Transform**  
   **A. C. Mert**, E. Kalali, I. Hamzaoglu,  
   *ICCE - Berlin, Sep. 2017, Berlin, Germany*.  
@@ -109,27 +100,23 @@ author_profile: true
   *ICCE - Berlin, Sep. 2017, Berlin, Germany*.  
   <a href="https://ieeexplore.ieee.org/abstract/document/8210583">LINK</a>  
 
+* **High Performance 2D Transform Hardware for Future Video Coding**  
+  **A. C. Mert**, E. Kalali, I. Hamzaoglu,  
+  *IEEE Transactions on Consumer Electronics, vol. 63, no. 2, May 2017*. (<a href="https://ieeexplore.ieee.org/abstract/document/8013250">Link</a>) 
+
 * **Low Complexity HEVC Sub-Pixel Motion Estimation Technique and Its Hardware Implementation**  
   **A. C. Mert**, E. Kalali, I. Hamzaoglu,  
   *ICCE - Berlin, Sep. 2016, Berlin, Germany*.  
   <a href="https://ieeexplore.ieee.org/abstract/document/7684744">LINK</a>  
 
+* **A Computation and Energy Reduction Technique for HEVC Discrete Cosine Transform**  
+  E. Kalali, **A. C. Mert**, I. Hamzaoglu,  
+  *IEEE Transactions on Consumer Electronics, vol. 62, no. 2, May 2016*. (<a href="https://ieeexplore.ieee.org/abstract/document/7514716">Link</a>) 
+
 * **Development of an electronic control unit for PMSM drives in automotive applications**  
   B. Soner, A. Icke, **A. C. Mert**, U. Basaran, S. T. Impram, I. Sahin,  
   *ELECO, Nov. 2015, Bursa, Turkey*.  
   <a href="https://ieeexplore.ieee.org/abstract/document/7394493">LINK</a> 
-
-## Preprints
-
-* **Low-Latency ASIC Algorithms of Modular Squaring of Large Integers for VDF Evaluation**  
-  **A. C. Mert**, E. Ozturk, E. Savas,  
-  *IACR, 2020*.  
-  <a href="https://eprint.iacr.org/2020/480.pdf">PDF</a>
-  
-* **Design and Implementation of a Fast and Scalable NTT-Based Polynomial Multiplier Architecture**  
-  **A. C. Mert**, E. Ozturk, E. Savas,  
-  *IACR, 2019*.  
-  <a href="https://eprint.iacr.org/2019/109.pdf">PDF</a>
 
 ## Theses
 
