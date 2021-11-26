@@ -63,28 +63,23 @@ author_profile: true
 
 * **A Low Power Versatile Video Coding Fractional Interpolation Hardware**  
   **A. C. Mert**, E. Kalali, I. Hamzaoglu,  
-  *Conference on Design and Architecture for Signal and Image Processing (DASIP), Oct. 2018, Porto, Portugal*.  
-  <a href="http://myweb.sabanciuniv.edu/ercankalali/files/2018/10/Mert_DASIP_VVC.pdf">PDF</a>
+  *Conference on DASIP, Oct. 2018, Porto, Portugal*. (<a href="http://myweb.sabanciuniv.edu/ercankalali/files/2018/10/Mert_DASIP_VVC.pdf">Link</a>)
   
 * **A Reconfigurable Fractional Interpolation Hardware for VVC Motion Compensation**  
   **A. C. Mert**, H. Azgin, E. Kalali, I. Hamzaoglu,  
-  *Euromicro Conference on DSD, Aug. 2018, Prague, Czech Republic*.  
-  <a href="http://myweb.sabanciuniv.edu/ercankalali/files/2018/10/Azgin_DSD_VVC.pdf">PDF</a>
+  *Euromicro Conference on DSD, Aug. 2018, Prague, Czech Republic*. (<a href="http://myweb.sabanciuniv.edu/ercankalali/files/2018/10/Azgin_DSD_VVC.pdf">Link</a>)
 
 * **Efficient Multiple Constant Multiplication Using DSP Blocks in FPGA**  
   **A. C. Mert**, H. Azgin, E. Kalali, I. Hamzaoglu,  
-  *International Conference on Field Programmable Logic and Applications, (FPL), Aug. 2018, Dublin, Ireland*.  
-  <a href="https://ieeexplore.ieee.org/abstract/document/8533518">LINK</a>, <a href="https://github.com/acmert/mcm-on-fpga">Code</a>
+  *International Conference on FPL, Aug. 2018, Dublin, Ireland*. (<a href="https://ieeexplore.ieee.org/abstract/document/8533518">Link</a>, <a href="https://github.com/acmert/mcm-on-fpga">Code</a>)
 
 * **An HEVC Fractional Interpolation Hardware Using Memory Based Constant Multiplication**  
   **A. C. Mert**, E. Kalali, I. Hamzaoglu,  
-  *ICCE, Jan. 2018, Las Vegas, USA*.  
-  <a href="https://ieeexplore.ieee.org/abstract/document/8326312">LINK</a>
+  *ICCE, Jan. 2018, Las Vegas, USA*. (<a href="https://ieeexplore.ieee.org/abstract/document/8326312">Link</a>)
 
 * **An Efficient FPGA Implementation of HEVC Intra Prediction**  
   H. Azgin, **A. C. Mert**, E. Kalali, I. Hamzaoglu,  
-  *ICCE, Jan. 2018, Las Vegas, USA*.  
-  <a href="https://ieeexplore.ieee.org/abstract/document/8326332">LINK</a>
+  *ICCE, Jan. 2018, Las Vegas, USA*. (<a href="https://ieeexplore.ieee.org/abstract/document/8326332">Link</a>)
 
 * **Reconfigurable Intra Prediction Hardware for Future Video Coding**  
   H. Azgin, **A. C. Mert**, E. Kalali, I. Hamzaoglu,  
@@ -92,13 +87,11 @@ author_profile: true
 
 * **An FPGA Implementation of Future Video Coding 2D Transform**  
   **A. C. Mert**, E. Kalali, I. Hamzaoglu,  
-  *ICCE - Berlin, Sep. 2017, Berlin, Germany*.  
-  <a href="https://ieeexplore.ieee.org/abstract/document/8210582">LINK</a>
+  *ICCE - Berlin, Sep. 2017, Berlin, Germany*. (<a href="https://ieeexplore.ieee.org/abstract/document/8210582">Link</a>)
   
 * **Pixel Correlation Based Computation and Energy Reduction Techniques for HEVC Fractional Interpolation**  
   **A. C. Mert**, E. Kalali, I. Hamzaoglu,  
-  *ICCE - Berlin, Sep. 2017, Berlin, Germany*.  
-  <a href="https://ieeexplore.ieee.org/abstract/document/8210583">LINK</a>  
+  *ICCE - Berlin, Sep. 2017, Berlin, Germany*. (<a href="https://ieeexplore.ieee.org/abstract/document/8210583">Link</a>)  
 
 * **High Performance 2D Transform Hardware for Future Video Coding**  
   **A. C. Mert**, E. Kalali, I. Hamzaoglu,  
@@ -106,8 +99,7 @@ author_profile: true
 
 * **Low Complexity HEVC Sub-Pixel Motion Estimation Technique and Its Hardware Implementation**  
   **A. C. Mert**, E. Kalali, I. Hamzaoglu,  
-  *ICCE - Berlin, Sep. 2016, Berlin, Germany*.  
-  <a href="https://ieeexplore.ieee.org/abstract/document/7684744">LINK</a>  
+  *ICCE - Berlin, Sep. 2016, Berlin, Germany*. (<a href="https://ieeexplore.ieee.org/abstract/document/7684744">Link</a>)  
 
 * **A Computation and Energy Reduction Technique for HEVC Discrete Cosine Transform**  
   E. Kalali, **A. C. Mert**, I. Hamzaoglu,  
@@ -115,8 +107,7 @@ author_profile: true
 
 * **Development of an electronic control unit for PMSM drives in automotive applications**  
   B. Soner, A. Icke, **A. C. Mert**, U. Basaran, S. T. Impram, I. Sahin,  
-  *ELECO, Nov. 2015, Bursa, Turkey*.  
-  <a href="https://ieeexplore.ieee.org/abstract/document/7394493">LINK</a> 
+  *ELECO, Nov. 2015, Bursa, Turkey*. (<a href="https://ieeexplore.ieee.org/abstract/document/7394493">Link</a>) 
 
 ## Theses
 
