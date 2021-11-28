@@ -7,7 +7,7 @@ author_profile: true
 
 ## Awards/Scholarships  
 
-* 2021 - IEEE Turkey **PhD Thesis Award** ([LINK]https://www.ieee.org.tr/2021-yili-ieee-turkiye-bilim-odulu-sahipleri/)
+* 2021 - IEEE Turkey **PhD Thesis Award** ([LINK](https://www.ieee.org.tr/2021-yili-ieee-turkiye-bilim-odulu-sahipleri/))
 * 2021 - Sabanci University Dr. Gürsel Sönmez **Research Award** ([LINK](https://fens.sabanciuniv.edu/en/dr-gursel-sonmez-research-award))
 * 2020 - **Best Paper Award** in Design, Automation and Test in Europe (DATE) Conference (<a href="https://past.date-conference.com/proceedings-archive/2020/html/bestpaper.html">LINK</a>)
 * 2019 - IACR **Student Travel Support** for Conference on Cryptographic Hardware and Embedded Systems (CHES)
