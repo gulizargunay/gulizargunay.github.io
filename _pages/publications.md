@@ -9,7 +9,7 @@ author_profile: true
 
 * **Accelerator for Computing on Encrypted Data**  
   S. S. Roy, **A. C. Mert**, Aikata, S. Kwon, Y. Shin, D. Yoo,  
-  *IACR, 2021*. (<a href="">Preprint</a>) 
+  *IACR, 2021*. (<a href="https://eprint.iacr.org/2021/1555.pdf">Preprint</a>) 
 
 * **CoHA-NTT: A Configurable Hardware Accelerator for NTT-based Polynomial Multiplication**  
   K. Derya, **A. C. Mert**, E. Ozturk, E. Savas,  
