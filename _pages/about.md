@@ -13,9 +13,11 @@ I am currently a postdoctoral researcher in Sabanci University, Istanbul, Turkey
 
 ## Experience
 
-* <b>Postdoctoral Researcher</b> at Mathematics, Sabanci University, Istanbul, Turkey (09/2021-*current*)
+* <b>Postdoctoral Researcher</b> at Mathematics, Sabanci University, Istanbul, Turkey  
+  (09/2021-*current*)
  
-* <b>Research and Teaching Assistant</b> at Mathematics, Sabanci University, Istanbul, Turkey (09/2015-07/2021)
+* <b>Research and Teaching Assistant</b> at Mathematics, Sabanci University, Istanbul, Turkey  
+  (09/2015-07/2021)
   
 ## Education
 
