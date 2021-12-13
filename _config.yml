@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ahmet Can Mert"
+title                    : "Gulizar Gunay"
 title_separator          : "-"
-name                     : &name "Ahmet Can Mert"
+name                     : &name "Gulizar Gunay"
 description              : &description "personal description"
-url                      : https://acmert.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://gulizargunay.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "acmert/acmert.github.io"
+repository               : "gulizargunay/gulizargunay.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Ahmet Can Mert"
-  avatar           : "acm.png"
-  bio              : "Postdoctoral Researcher at TU Graz"
-  location         : "Graz, Austria"
+  name             : "Gulizar Gunay"
+  avatar           : "photo.png"
+  bio              : "Postdoctoral Researcher at Sabanci University, Turkey"
+  location         : "Istanbul, Turkey"
   employer         :
   pubmed           :
-  googlescholar    : "https://scholar.google.com.tr/citations?user=AjOpJZUAAAAJ&hl=en"
+  googlescholar    : 
   email            :
-  researchgate     : "https://www.researchgate.net/profile/Ahmet_Mert5"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
@@ -96,14 +96,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "acmert"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "ahmet-can-mert-a1416955"
-  orcid            : "http://orcid.org/0000-0002-7400-2450"
+  linkedin         : 
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
