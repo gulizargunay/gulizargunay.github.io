@@ -5,10 +5,24 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Honors/Scholarships  
+## Talks/Conference Attendances  
   
 
-## Talks/Conference Attendances  
+## Honors/Scholarships  
+
+* (2019-2021) - **Project Scholarship**, Sabanci University, Istanbul, Turkey   
+  *I was supported by Scientific and Technological Research Council of Turkey (TÜBITAK) 1001 program under grant no:118F159.*  
+
+* 2020 - **International Research Fellowship Program for PhD Students**   
+  *I was awarded with six-months international research grant by TÜBITAK 2214A program for continuing my PhD studies in Hungary.*  
+
+* (2015-2018) - **Full Graduate Scholarship**, Mathematics, Sabanci University, Istanbul, Turkey   
+
+* 2015 - **National PhD Scholarship Program**   
+  *I was awarded PhD scholarship by TÜBITAK 2211A program.*  
+
+* (2011-2012) - **Certificate of High Honor**, Dokuz Eylul University, Izmir, Turkey   
+  *I was awarded certificate of high honor four times for having a GPA greater than 3.50 in the semester.*  
 
 
 ## Teaching  
