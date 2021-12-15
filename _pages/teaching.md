@@ -7,6 +7,24 @@ author_profile: true
 
 ## Talks/Conference Attendances  
   
+* **Sabanci Algebra Seminar**, Istanbul, Turkey (April, 2021)  
+  *Talk: On pencils of cubics on the projective line over finite fields of characteristic.*  
+
+* **eSeminar UGent-VUB**, Virtual (April, 2021)  
+  *Talk: On pencils of cubics on the projective line over finite fields of characteristic.*  
+
+* **Finite Geometry Workshop**, Szeged, Hungary (Jan. 31 - Feb. 3 2019)  
+  *Talk: On Small Planar Arcs.*  
+
+* **Antalya Algebra Days/Mathematics Village**, Antalys, Turkey (May 16-20 2018)  
+  *Poster presentation: Completion of Arcs.*  
+
+* **Sabanci Algebra Seminar**, Istanbul, Turkey (October 2017)  
+  *Talk: Arcs, ovals and Segre’s theorem.*  
+
+* **Antalya Algebra Days**, Antalya, Turkey (2016)  
+
+* **Nesin Mathematics Village**, Izmir, Turkey (2012, 2013)  
 
 ## Honors/Scholarships  
 
