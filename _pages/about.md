@@ -9,12 +9,12 @@ redirect_from:
 ---
 I received my BSc and MSc degrees at [Mathematics from Dokuz Eylul University](https://math.deu.edu.tr/home/), Izmir, Turkey, in 2013 and 2015, respectively. I studied under the supervision of Assoc. Prof. Engin Mermut during my MSc. I received my PhD at [Mathematics in Sabanci University](https://math.sabanciuniv.edu/), Istanbul, Turkey in 2021. I studied under the supervision of [Prof. Dr. Michel Lavrauw](http://people.sabanciuniv.edu/~mlavrauw/).
 
-I am currently a postdoctoral researcher in Sabanci University, Istanbul, Turkey. My research interests include algebra, finite fields, finite geometry and projective geometry. More specifically, arcs in Galois spaces and NRC in PG(3,q).
+I worked as a postdoctoral researcher in Sabanci University, Istanbul, Turkey. My research interests include algebra, finite fields, finite geometry and projective geometry. More specifically, arcs in Galois spaces and NRC in PG(3,q).
 
 ## Experience
 
 * <b>Postdoctoral Researcher</b> at Mathematics, Sabanci University, Istanbul, Turkey  
-  (09/2021-*current*)
+  (09/2021-12/2021)
  
 * <b>Research and Teaching Assistant</b> at Mathematics, Sabanci University, Istanbul, Turkey  
   (09/2015-07/2021)
